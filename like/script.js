@@ -17,7 +17,7 @@ let index = -1;
 btnSi.addEventListener('click', function () {
     Swal.fire({
         title: '¡Sabia que dirías que sí!',
-        text: '¡Eres mi novio ahora! Mi bebito fiu fiu 😊😘',
+        text: '¡Eres mi novia ahora!😊😘',
         imageUrl: '/like/img/image_SI.gif',
         confirmButtonText: 'Cerrar'
     }).then((result) => {
